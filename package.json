@@ -1,0 +1,15 @@
+{
+  "name": "mr-eliot-bot",
+  "version": "1.0.0",
+  "description": "MR ELIOT BOT - Bot WhatsApp multi-fonctions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^9.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "fs-extra": "^11.2.0"
+  }
+}
